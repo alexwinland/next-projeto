@@ -2,8 +2,9 @@
 
 <img src="src/imagem/Projeto.png">
 
+Esse projeto é como um playground onde eu brinco com o Next.js, React e Tailwind CSS. 
 
-## **Esse projeto é como um playground onde eu brinco com o Next.js, React e Tailwind CSS. Experimentei várias coisas legais, como:**
+## **Experimentei várias coisas legais, como:**
 
 * **Páginas dinâmicas:** Criei páginas para produtos, administração e até uma página de erro 404 bem divertida.
 * **Componentes reutilizáveis:** Desenvolvi componentes personalizados para deixar a interface mais bonita e organizada.
