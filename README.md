@@ -35,6 +35,6 @@ Para iniciar a aplicação localmente, certifique-se de ter o Node.js e o npm in
 6. Execute `npm run dev` para iniciar o servidor de desenvolvimento.
 7. Acesse `http://localhost:3000` (ou a porta especificada no script `dev` do `package.json`) em seu navegador para ver a aplicação em funcionamento.
 
-## **Quer mexer no código?**
+### **Quer mexer no código?**
 
 Sinta-se à vontade para clonar o repositório e explorar o código. Se tiver alguma dúvida, pode abrir uma issue. 
